@@ -9,6 +9,7 @@ This code requires the following:
 * [Visual Studio](https://www.visualstudio.com/en-us/downloads)
 
 ## Build
+**pull code from https://github.com/ghanshyam63/TelstraPurple-TechTest-ToyRobot.git**
 Open the sample solution in Visual Studio 2019/2017.
 Press F5 to build and run the sample. This will restore the NuGet package dependencies and open the console application.
 Follow the instruction on command prompt.
